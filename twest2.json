@@ -8,8 +8,6 @@
     }
   ],
   "semanticColors": {
-    "HEADER_PRIMARY": ["#F8E1E5"],
-    "TEXT_NORMAL": ["#ffffff"],
     "INTERACTIVE_NORMAL ": ["#FAB1BD"],
     "INTERACTIVE_MUTED": ["#AD8C91"],
     "CHANNELS_DEFAULT": ["#FAB1BD"],
