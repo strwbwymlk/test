@@ -1,5 +1,5 @@
 {
-  "name": "eeeeeeeee",
+  "name": "eeeeee",
   "description": "A theme based on @Melonturtle_ stream design",
   "authors": [
     {
@@ -54,12 +54,12 @@
     "BRAND_360": "#C5536C",
     "BRAND_500": "#C5536C",
     "BRAND_560": "#C66376"
-  },
     },
     "spec": 2,
     "background": {
         "blur": 0.6,
-        "url": "https://molang.com/cdn/shop/products/molanghalloweenwallpapermobile3_577x1024.jpg?v=1634910278",
+        "url": "https://images.unsplash.com/photo-1569521597715-0e0c4e22e0e4?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8MXx8fGVufDB8fHx8fA%3D%3D&w=1000&q=80",
         "alpha": 0.5,
         "color": "#181818"
     }
+}
