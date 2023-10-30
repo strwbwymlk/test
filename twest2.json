@@ -8,6 +8,17 @@
     }
   ],
   "semanticColors": {
+    "HEADER_PRIMARY": ["#F8E1E5"],
+    "HEADER_SECONDARY": ["#E2C1C7"],
+    "TEXT_NORMAL": ["#ffffff"],
+    "TEXT_MUTED": ["#E2C1C7"],
+    "INTERACTIVE_NORMAL ": ["#FAB1BD"],
+    "INTERACTIVE_HOVER": ["#E2C1C7"],
+    "INTERACTIVE_ACTIVE": ["#E2C1C7"],
+    "INTERACTIVE_MUTED": ["#AD8C91"],
+    "CHANNELS_DEFAULT": ["#ffffff"],
+    "CHANNEL_ICON": ["#FAB1BD"],
+
     "BACKGROUND_PRIMARY": ["#5E3640"],
     "BACKGROUND_SECONDARY": ["#49292F"],
     "BACKGROUND_SECONDARY_ALT": ["#3B1D24"],
