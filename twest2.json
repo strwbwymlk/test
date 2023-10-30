@@ -10,9 +10,7 @@
   "semanticColors": {
     "HEADER_PRIMARY": ["#F8E1E5"],
     "TEXT_NORMAL": ["#ffffff"],
-    "TEXT_MUTED": ["#E2C1C7"],
     "INTERACTIVE_NORMAL ": ["#FAB1BD"],
-    "INTERACTIVE_ACTIVE": ["#E2C1C7"],
     "INTERACTIVE_MUTED": ["#AD8C91"],
     "CHANNELS_DEFAULT": ["#FAB1BD"],
     "CHANNEL_ICON": ["#FAB1BD"],
